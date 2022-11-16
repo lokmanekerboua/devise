@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TP4 e1</string>
+    <string name="cliquer_un_drapeau_pour_changer_le_devise">Cliquer un drapeau pour changer le devise</string>
+    <string name="dinar_alg">Dinar alg</string>
+    <string name="eur">EUR</string>
+    <string name="da">DA</string>
+    <string name="euro">Euro</string>
+    <string name="vider">vider</string>
+    <string name="parallele">parallele</string>
+    <string name="officiel">officiel</string>
+    <string name="wer">$$</string>
+    <string name="weww">$$</string>
+</resources>
